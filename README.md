@@ -17,7 +17,8 @@ This is a backend REST API application built using Spring Boot to manage employe
 - RESTful API design
 
 ## 🔗 API Endpoints
-- GET /api/employees
+- GET /api/employees<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c6da2acf-7403-4dce-8155-a635cdc072ea" />
+
 - POST /api/employees
 - GET /api/employees/{id}
 - DELETE /api/employees/{id}
