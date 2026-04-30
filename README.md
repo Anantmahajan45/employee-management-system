@@ -16,7 +16,8 @@ This is a backend REST API application built using Spring Boot to manage employe
 - Delete Employee
 - RESTful API design
 
-## 🔗 API Endpoints
+## 🔗 API Outputs<img width="1920" height="1080" alt="Image2" src="https://github.com/user-attachments/assets/f29fddcf-4724-419c-8532-2aa9906fa0b6" />
+
 - GET /api/employees<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c6da2acf-7403-4dce-8155-a635cdc072ea" />
 
 - POST /api/employees
